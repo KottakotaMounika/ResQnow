@@ -1,0 +1,78 @@
+name: resqnow
+description: ResQnow Emergency Response App - Your reliable partner in emergencies
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+  # CORE - GUARANTEED WORKING VERSIONS
+  provider: ^6.0.5
+  shared_preferences: ^2.2.2
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  path_provider: ^2.1.1
+  http: ^1.1.0
+  url_launcher: ^6.1.12
+  receive_intent: ^0.2.7
+
+  # ENVIRONMENT & CONFIGURATION
+  flutter_dotenv: ^6.0.0
+
+  # UI & ANIMATION
+  flutter_staggered_animations: ^1.1.1
+  animated_text_kit: ^4.2.2
+
+  # MAPS & LOCATION
+  flutter_map: ^8.2.2
+  latlong2: ^0.9.1
+  geolocator: ^14.0.2
+
+  # PERMISSIONS
+  permission_handler: ^12.0.1
+
+  # AUDIO & MEDIA
+  audioplayers: ^6.5.1
+  video_player: ^2.10.0
+
+  # COMMUNICATION
+  share_plus: ^12.0.0
+  flutter_contacts: ^1.1.7+1
+
+  # AI & CHAT
+  google_generative_ai: ^0.4.3
+  speech_to_text: ^7.3.0
+  flutter_tts: ^4.0.2
+
+  flutter_sound: ^9.2.13
+  file_picker: ^10.3.3
+
+  # UTILITIES
+  crypto: ^3.0.3
+  intl: ^0.18.1
+
+  # FONTS
+  google_fonts: ^6.2.1
+
+  # WEB SUPPORT & JS INTEROP
+  web: ^1.1.1
+  js: ^0.7.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.3
+  flutter_native_splash: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/siren.mp3
+    - .env
