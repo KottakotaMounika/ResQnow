@@ -75,31 +75,55 @@ The app is designed to respond quickly in real-time emergency scenarios.
 
 ## 📸 Application Screenshots
 
-Below are some UI previews of ResQnow:
+Below are some UI previews of **ResQnow**:
 
-### 🏠 Home Screen
-![Home](Screenshots/home.jpeg)
+---
 
-### 🚨 Emergency SOS
-![SOS](Screenshots/home2.jpeg)
+### 🏠 Home & Emergency Dashboard
 
-### 🏥 Book Appointment
-![Book Appointment](Screenshots/book_appointment.jpeg)
+<p align="center">
+  <img src="Screenshots/home.jpeg" width="260">
+  <img src="Screenshots/home2.jpeg" width="260">
+</p>
 
-### 🚓 FIR Report
-![FIR Report](Screenshots/FIR_report.jpeg)
+---
 
-### 🔥 Fire Service
-![Fire Service](Screenshots/fire_service.jpeg)
+### 🏥 Book Appointment & Medical Services
 
-### 📞 Emergency Contacts
-![Contacts](Screenshots/Emergency_contacts.jpeg)
+<p align="center">
+  <img src="Screenshots/book_appointment.jpeg" width="260">
+  <img src="Screenshots/FirstAidGuide.jpeg" width="260">
+</p>
+
+---
+
+### 🚓 FIR Reporting & Police Assistance
+
+<p align="center">
+  <img src="Screenshots/FIR_report.jpeg" width="260">
+  <img src="Screenshots/file_accident_report.jpeg" width="260">
+</p>
+
+---
+
+### 🔥 Fire Services & Emergency Contacts
+
+<p align="center">
+  <img src="Screenshots/fire_service.jpeg" width="260">
+  <img src="Screenshots/Emergency_contacts.jpeg" width="260">
+</p>
+
+---
 
 ### 🤖 Bot Assistant
-![Bot](Screenshots/Bot.jpeg)
 
-> More screenshots are available in the `screenshots` folder.
+<p align="center">
+  <img src="Screenshots/Bot.jpeg" width="260">
+</p>
 
+---
+
+> 📂 More screenshots are available in the `Screenshots` folder.
 ---
 
 ## 🚀 How to Run the Project
