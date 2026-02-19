@@ -77,10 +77,26 @@ The app is designed to respond quickly in real-time emergency scenarios.
 
 Below are some UI previews of ResQnow:
 
-![Home Screen](screenshots/home.png)
-![SOS Screen](screenshots/sos.png)
-![Emergency Services](screenshots/services.png)
-![User Profile](screenshots/profile.png)
+### 🏠 Home Screen
+![Home](Screenshots/home.jpeg)
+
+### 🚨 Emergency SOS
+![SOS](Screenshots/home2.jpeg)
+
+### 🏥 Book Appointment
+![Book Appointment](Screenshots/book_appointment.jpeg)
+
+### 🚓 FIR Report
+![FIR Report](Screenshots/FIR_report.jpeg)
+
+### 🔥 Fire Service
+![Fire Service](Screenshots/fire_service.jpeg)
+
+### 📞 Emergency Contacts
+![Contacts](Screenshots/Emergency_contacts.jpeg)
+
+### 🤖 Bot Assistant
+![Bot](Screenshots/Bot.jpeg)
 
 > More screenshots are available in the `screenshots` folder.
 
